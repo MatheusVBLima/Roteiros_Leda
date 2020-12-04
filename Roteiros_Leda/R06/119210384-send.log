@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-01T16:10:03.864-0300</date>
+  <logger>MATHEUS VINICIUS BENEVIDES LIMA</logger>
+  <level>FINE</level>
+  <message>File 119210384-MATHEUS VINICIUS BENEVIDES LIMA.zip was received. It was sent by MATHEUS VINICIUS BENEVIDES LIMA from IP 192.168.0.190 at 01-11-2020 16*10*03</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-01T16:50:25.612-0300</date>
+  <logger>MATHEUS VINICIUS BENEVIDES LIMA</logger>
+  <level>FINE</level>
+  <message>File 119210384-MATHEUS VINICIUS BENEVIDES LIMA.zip was received. It was sent by MATHEUS VINICIUS BENEVIDES LIMA from IP 192.168.15.3 at 01-11-2020 16*50*25</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-01T21:31:46.133-0300</date>
+  <logger>MATHEUS VINICIUS BENEVIDES LIMA</logger>
+  <level>FINE</level>
+  <message>File 119210384-MATHEUS VINICIUS BENEVIDES LIMA.zip was received. It was sent by MATHEUS VINICIUS BENEVIDES LIMA from IP 192.168.15.3 at 01-11-2020 21*31*46</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-01T21:38:07.641-0300</date>
+  <logger>MATHEUS VINICIUS BENEVIDES LIMA</logger>
+  <level>FINE</level>
+  <message>File 119210384-MATHEUS VINICIUS BENEVIDES LIMA.zip was received. It was sent by MATHEUS VINICIUS BENEVIDES LIMA from IP 192.168.15.3 at 01-11-2020 21*38*07</message>
+</record>
