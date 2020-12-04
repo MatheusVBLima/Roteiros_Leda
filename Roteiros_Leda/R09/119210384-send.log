@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE log SYSTEM "logger.dtd">
-<log>
-<record>
-  <date>2020-11-22T14:31:56.881-0300</date>
-  <logger>MATHEUS VINICIUS BENEVIDES LIMA</logger>
-  <level>FINE</level>
-  <message>File 119210384-MATHEUS VINICIUS BENEVIDES LIMA.zip was received. It was sent by MATHEUS VINICIUS BENEVIDES LIMA from IP 192.168.0.190 at 22-11-2020 14*31*56</message>
-</record>
